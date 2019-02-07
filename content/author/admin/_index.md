@@ -23,8 +23,8 @@ interests = [
   "Cyber-Physical System",
   "Power System Relaiblity",
   "Energy Market",
-  "Machine Learning",
   "Game Theory",
+  "Machine Learning",
   "Numerical Optimization"
 ]
 
@@ -65,9 +65,9 @@ interests = [
   link = "https://scholar.google.com/citations?user=ko-TY6kAAAAJ&hl=en"
 
 [[social]]
-  icon = "github"
+  icon = "fa-linkedin-in"
   icon_pack = "fab"
-  link = "https://github.com/wlfei2008"
+  link = "https://www.linkedin.com/in/longfei-wei-8310b4121/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
