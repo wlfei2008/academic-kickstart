@@ -16,13 +16,16 @@ organizations = [ { name = "GEIRI North America", url = "https://www.geirina.net
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "longfei.wei@geirina.net"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Cyber-Physical System",
+  "Power System Relaiblity",
+  "Energy Market",
+  "Machine Learning",
+  "Game Theory",
+  "Numerical Optimization"
 ]
 
 # List qualifications (such as academic degrees)
@@ -49,7 +52,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:tlongfei.wei@geirina.net".
 
 [[social]]
   icon = "twitter"
@@ -59,12 +62,12 @@ interests = [
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=ko-TY6kAAAAJ&hl=en"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/wlfei2008"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
