@@ -13,7 +13,7 @@ role = "Power System Software Engineer"
 organizations = [ { name = "GEIRI North America", url = "https://www.geirina.net/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include power system relaiblity, cyber-phsyical security and energy market."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "longfei.wei@geirina.net"
@@ -78,6 +78,4 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Longfei Wei is a Power System Software Engineer at GEIRI North America. His research interest lies in the intersection of numerical optimization, game theory and power system reilaiblity and resilience.
