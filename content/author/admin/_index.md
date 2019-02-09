@@ -58,6 +58,11 @@ interests = [
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/longfei-wei-8310b4121/"
+  
+[[social]]
+icon = "researchgate"
+icon_pack = "fab"
+link = "https://www.researchgate.net/profile/Longfei_Wei2"
 
 [[social]]
   icon = "google-scholar"
