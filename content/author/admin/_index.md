@@ -55,9 +55,9 @@ interests = [
   link = "#contact"  # For a direct email link, use "mailto:tlongfei.wei@geirina.net".
 
 [[social]]
-  icon = "twitter"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://www.linkedin.com/in/longfei-wei-8310b4121/"
 
 [[social]]
   icon = "google-scholar"
