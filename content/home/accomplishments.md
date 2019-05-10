@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  title = "Intro to Python"
+  title = "Game Theory"
   organization = "DataCamp"
   certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
